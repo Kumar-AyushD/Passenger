@@ -1,2 +1,2 @@
 ## Passenger
-A Counter app build with HTML,CSS and Javascript
+A app for counting build with HTML,CSS and Javascript
